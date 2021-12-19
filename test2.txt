@@ -1,5 +1,0 @@
-git branch
-git branch name
-git switch name
-
-
